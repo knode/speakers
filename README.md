@@ -10,7 +10,7 @@ and send a pull request.
 ## audience
 
 This repository is intended primarily for node meetup organizers and
-invividuals looking to speak at node meetups. The intent is for organizers
+individuals looking to speak at node meetups. The intent is for organizers
 to be able to contact local speakers more easily, for speakers to 
 be able to share their talks to folks interested in hosting them, and for
 speakers to be able to swap notes about what worked well (or not so well!)
