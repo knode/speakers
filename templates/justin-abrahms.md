@@ -13,9 +13,9 @@
 ## About me
 
 I'm Justin. I've been programming for many years. I'm self-taught. I dig talking because it provides me an excuse to dig deeper into a topic, as well as a method of share my findings with others.
-As for formats, I'm happy with a tour of code, if there's a particular repo of mine that catches your eye. Also into standard speaker + slides or round table discussion things.
+As for formats, I'm happy with a tour of code, if there's a particular repo of mine that catches your eye, standard speaker + slides or round table discussion things.
 
-I'm into a bunch of stuff, including: 
+For topics, I'm into a bunch of stuff, including: 
 
 - static analysis
 - writing testable code
