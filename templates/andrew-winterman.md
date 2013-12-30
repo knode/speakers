@@ -14,3 +14,8 @@ one](https://1.gravatar.com/avatar/e0a902b9b106cfc9a991d2d05a5fe298?d=https%3A%2
 
 I'm a javascript engineer at urbanairship. I like coding, mathematics and
 chess. I've been interested in distributed systems lately.
+
+I'm especially fond of node-streams-II, procedural programming, partial
+application and first class functions.
+
+I know d3 pretty well.
