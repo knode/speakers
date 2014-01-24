@@ -5,17 +5,11 @@ Site in development at [knode.io](http://knode.io)
 A repository of Node speakers. A template is
 provided to add yourself: simply copy the `template/` directory
 to `city-state-country/`, and rename the file to `your-human-name.md`,
-and send a pull request.
+and send a pull request. Please refrain from submitting a speaker page for other people. If there is a speaker you particularly enjoyed, contact them (politely!) and encourage them to submit a PR to this repo.
 
 ## audience
 
-This repository is intended primarily for node meetup organizers and
-individuals looking to speak at node meetups. The intent is for organizers
-to be able to contact local speakers more easily, for speakers to 
-be able to share their talks to folks interested in hosting them, and for
-speakers to be able to swap notes about what worked well (or not so well!)
-in their own talks.
+This repository's intended audience is organizers and
+prospective speakers at node meetups. The intent is to enable communication among organizers and speakers: It should help match organizers with speakers, and provide a platform on which speakers might publish their talks and swap notes between themselves about what worked well and what did not.
 
-**Please refrain from publishing speaker pages for other people.** If there is
-a speaker you particularly enjoyed, contact them (politely!) and encourage them
-to submit a PR to this repo.
+
