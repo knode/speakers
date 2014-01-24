@@ -1,0 +1,23 @@
+{
+  "name": "knode-speakers",
+  "version": "0.0.0",
+  "description": "A repository of speakers willing to talk about node-related things!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/knode/speakers.git"
+  },
+  "keywords": [
+    "speakers",
+    "knode"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/knode/speakers/issues"
+  },
+  "homepage": "https://github.com/knode/speakers"
+}
