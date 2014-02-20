@@ -18,6 +18,9 @@ Prerequisites: familiarity with [GitHub PRs](https://help.github.com/articles/us
 Knowledge of Markdown for editing `.md` documents
 
 - Discuss proposed changes in an Issue.
+- If submitting a Speaker Page, please follow the template
+  closely. You can verify that you have filled out your markdown file
+  properly by running `node index.js | python -mjson.tool`.
 - Submit changes in a Pull Request, fixing one thing. If a pull request is too broad, we may ask
   that you split it up so that each change may be addressed individually.
 - Pull requests can be merged by contributers with commit access once all open questions have been

@@ -11,5 +11,3 @@ and send a pull request. Please refrain from submitting a speaker page for other
 
 This repository's intended audience is organizers and
 prospective speakers at node meetups. The intent is to enable communication among organizers and speakers: It should help match organizers with speakers, and provide a platform on which speakers might publish their talks and swap notes between themselves about what worked well and what did not.
-
-
