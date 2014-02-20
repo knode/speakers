@@ -15,12 +15,12 @@
 I'm Justin. I've been programming for many years. I'm self-taught. I dig talking because it provides me an excuse to dig deeper into a topic, as well as a method of share my findings with others.
 As for formats, I'm happy with a tour of code, if there's a particular repo of mine that catches your eye, standard speaker + slides or round table discussion things.
 
-For topics, I'm into a bunch of stuff, including: 
+## Topics
 
-- static analysis
-- writing testable code
-- playing with irc bots
-- application structure and architecture
-- technical paper discussion
-- computer science (and education thereof)
-- tooling as a general concept
+* static analysis
+* writing testable code
+* playing with irc bots
+* application structure and architecture
+* technical paper discussion
+* computer science (and education thereof)
+* tooling as a general concept
